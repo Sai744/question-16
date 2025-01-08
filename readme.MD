@@ -2,6 +2,7 @@ To identify cost-saving opportunities in AWS and propose optimizations for your 
 # Step 1: Use AWS Cost Explorer to Analyze Costs
 
 __Navigate to AWS Cost Explorer:__
+---
 * In the AWS Management Console, go to Billing and Cost Management and select Cost Explorer.
 * AWS Cost Explorer provides a detailed view of your AWS spending over time, with the ability to filter by service, linked account, region, and other dimensions.
 ---
@@ -15,6 +16,7 @@ __Review Your Cost and Usage:__
 ---
 
 __Set up Cost and Usage Reports:__
+---
 * Set up custom reports to track and visualize spending patterns over time.
 * Analyze historical data to predict future costs and usage, identifying areas where you can reduce spending.
 ** Look for Unused or Over-Provisioned Resources: **
