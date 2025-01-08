@@ -30,7 +30,6 @@ __Access AWS Trusted Advisor:__
 
 __Review Cost Optimization Recommendations:__
 
----
 Trusted Advisor provides cost-saving recommendations in several areas, such as:
 * Underutilized EC2 Instances: It checks for EC2 instances that are underutilized based on CPU, memory, and network metrics, which may be candidates for downsizing or terminating.
 * Idle Load Balancers: It identifies load balancers that are not being used and suggests deletion.
@@ -45,7 +44,7 @@ __Implement Recommendations:__
 * Consolidate Reserved Instances: Optimize your Reserved Instance purchases to better match your actual usage, saving on long-term costs.
 ---
 # Step 3: Regularly Review and Optimize Costs
-Schedule Regular Cost Reviews:
+__Schedule Regular Cost Reviews:__
 * Make cost reviews part of your routine to ensure that your AWS usage continues to align with your budget and cost optimization goals.
 Set Up Alerts:
 * Use AWS Budgets to create cost and usage alerts that notify you if your spending is about to exceed a predefined threshold.
